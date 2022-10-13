@@ -69,7 +69,7 @@
 
 <br><br>
 
-## [<Mirroring> 구성 요소]<a name='5'></a>
+## [< Mirroring > 구성 요소]<a name='5'></a>
 
 - 모든 일은 자신에게 되돌아 온다.
 
