@@ -166,18 +166,23 @@
 
 |번호|오브젝트 이름(영문이름)|이미지|
 |:---:|:---:|:---:|
-|1|||
-|2|||
-|3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
+|1|Blacklist|![블랙리스트_이미지](./img/Blacklist.jpg)|
+|2|PaperWith3|![3이_적힌_종이_이미지](./img/PaperWith3.jpg)|
+|3|Bed|![침대_이미지](./img/Bed_Obj.png)|
+|4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
+|5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
+|6|PictureOfPiano|![피아노건반_이미지](./img/PictureOfPiano.jpg)|
+|7|PictureOfSchool'sPanorama|![학교전경_이미지](./img/School'sPanorama.jpg)|
+|8|Table|![책상_이미지](./img/Table_Obj.png)|
+|9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
+|10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
+|11|LittleBox|![작은상자_이미지](./img/LittleBox_Obj.png)|
+|12|Diary_1, Diary_2, Diary_3, Diary_4|![일기장1_이미지](./img/Diary_1.jpg)![일기장2_이미지](./img/Diary_2.jpg)![일기장3_이미지](./img/Diary_3.jpg)![일기장4_이미지](./img/Diary_4.jpg)|
+|13|AlbumOfGraduation|![졸업앨범_이미지](./img/AlbumOfGraduation_Obj.png)|
+|14|Frame|![액자_이미지](./img/Frame_img.jpg)|
+|15|KeyOfDrawer_1, KeyOfDrawer_2, RoomKey|![열쇠_이미지](./img/Key_img.jpg)|
+|16|Door, IronDoor|![첫번째방_문](./img/Door_Obj.png)![두번째방_문](./img/IronDoor_Obj.png)|
+|17|Compass|![나침반_이미지](./img/Compass_img.jpg)|
+|18|Sofa|![소파_이미지](./img/Sofa_Obj.png)|
+|19|Newspaper|![신문_이미지](./img/Newspaper_img.jpg)|
+|20|QuestionPaper|![문제_이미지](./img/Question_img.jpg)|
