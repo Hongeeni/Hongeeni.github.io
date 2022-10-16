@@ -171,7 +171,7 @@
 |3|Bed|![침대_이미지](./img/Bed_Obj.png)|
 |4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
 |5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
-|6|PictureOfPiano|![더러운피아노건반_이미지](./img/Picture_Blood.png)![깨끗한피아노건반_이미지](./img/Picture_Number.png)|
+|6|PictureOfPiano|![더러운피아노건반_이미지](./img/piano_blood.png)![깨끗한피아노건반_이미지](./img/piano_number.png)|
 |7|PictureOfSchool'sPanorama|![학교전경_이미지](./img/School'sPanorama.png)|
 |8|Table|![책상_이미지](./img/Table_Obj.png)|
 |9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
