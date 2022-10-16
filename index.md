@@ -172,7 +172,7 @@
 |4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
 |5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
 |6|PictureOfPiano|![더러운피아노건반_이미지](./img/Picture_Blood.png)![깨끗한피아노건반_이미지](./img/Picture_Number.png)|
-|7|PictureOfSchool'sPanorama|![학교전경_이미지](./img/School'sPanorama.jpg)|
+|7|PictureOfSchool'sPanorama|![학교전경_이미지](./img/School_Panorama.jpg)|
 |8|Table|![책상_이미지](./img/Table_Obj.png)|
 |9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
 |10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
