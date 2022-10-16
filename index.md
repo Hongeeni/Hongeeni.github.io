@@ -186,3 +186,5 @@
 |18|Sofa|![소파_이미지](./img/Sofa_Obj.png)|
 |19|Newspaper|![신문_이미지](./img/Newspaper_img.jpg)|
 |20|QuestionPaper|![문제_이미지](./img/Question_img.jpg)|
+
+### 2. 플레이어 
