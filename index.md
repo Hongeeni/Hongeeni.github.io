@@ -607,3 +607,9 @@
 
 ![키보드이벤트_이미지_1](./img/KeyBoard1_img.png)
 ![키보드이벤트_이미지_2](./img/KeyBoard2_img.png)
+
+<br><br>
+
+## [스토리 보드]<a name='8'></a>
+
+  [![Proto_type_동영상 미리보기 이미지](./img/1888018_윤홍인_ProtoType_Game.mp4)]
