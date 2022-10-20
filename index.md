@@ -612,4 +612,4 @@
 
 ## [스토리 보드]<a name='8'></a>
 
-  [![Proto_type_동영상 미리보기 이미지](./img/1888018_윤홍인_ProtoType_Game.mp4)]
+  [![동영상 미리보기 이미지](./img/게임컨셉이미지_02.png)](https://drive.google.com/file/d/1EOdaxHF7VM0IXriWZmG8ipjx6G8U6dW1/view?usp=sharing)
