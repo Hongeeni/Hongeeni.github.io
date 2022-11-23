@@ -302,13 +302,13 @@
 
 |번호|오브젝트 이름(영문이름)|이미지|
 |:---:|:---:|:---:|
-|1|AdmissionPhoto|![입학식_이미지](./img/AdmissionPhoto.png)|
-|2|GraduatePhoto|![졸업식_이미지](./img/GraduatePhoto.png)|
+|1|AdmissionPhoto|![입학식_이미지](./img/AdmissionPhoto.jpg)|
+|2|GraduatePhoto|![졸업식_이미지](./img/GraduatePhoto.jpg)|
 |3|Bed|![침대_이미지](./img/Bed_Obj.png)|
 |4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
 |5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
 |6|PictureOfPiano|![더러운피아노건반_이미지](./img/piano_blood.png)![깨끗한피아노건반_이미지](./img/piano_number.png)|
-|7|HintPaper|![힌트_이미지](./img/PaperHint.png)|
+|7|HintPaper|![힌트_이미지](./img/PaperHint.jpg)|
 |8|Table|![책상_이미지](./img/Table_Obj.png)|
 |9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
 |10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
@@ -320,15 +320,15 @@
 |16|Door, IronDoor|![첫번째방_문](./img/Door_Obj.png)![두번째방_문](./img/IronDoor_Obj.png)|
 |17|Compass|![나침반_이미지](./img/Compass_img.jpg)|
 |18|Sofa|![소파_이미지](./img/Sofa_Obj.png)|
-|19|Newspaper|![신문_이미지](./img/Newspaper_img.jpg)|
-|20|QuestionPaper|![문제_이미지](./img/PaperQuiz.jpg)|
-|21|DeadBodyCloth|![시체 이미지](./img/DeadBody_img.jpg)|
-|22|BlackVase|![검은 화병 이미지](./img/Vase1_img.jpg)|
-|23|DeadBodyCloth|![흰 화병 이미지](./img/Vase2_img.jpg)|
-|24|Flower|![빨간 꽃 이미지](./img/빨간장미.jpg)|
-|25|Flower|![노란 꽃 이미지](./img/노란장미.jpg)|
-|26|Flower|![파란 꽃 이미지](./img/파란장미.jpg)|
-|27|Flower|![하얀 꽃 이미지](./img/하얀장미.jpg)|
+|19|Newspaper|![신문_이미지](./img/Newspaper_img.png)|
+|20|QuestionPaper|![문제_이미지](./img/PaperQuiz.png)|
+|21|DeadBodyCloth|![시체 이미지](./img/DeadBody_img.png)|
+|22|BlackVase|![검은 화병 이미지](./img/Vase1_img.png)|
+|23|DeadBodyCloth|![흰 화병 이미지](./img/Vase2_img.png)|
+|24|Flower|![빨간 꽃 이미지](./img/빨간장미.png)|
+|25|Flower|![노란 꽃 이미지](./img/노란장미.png)|
+|26|Flower|![파란 꽃 이미지](./img/파란장미.png)|
+|27|Flower|![하얀 꽃 이미지](./img/하얀장미.png)|
 
 <br>
 
