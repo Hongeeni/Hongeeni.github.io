@@ -308,7 +308,7 @@
 |4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
 |5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
 |6|PictureOfPiano|![더러운피아노건반_이미지](./img/piano_blood.png)![깨끗한피아노건반_이미지](./img/piano_number.png)|
-|7|HintPaper|![힌트_이미지](./img/PaperHint.jpg)|
+|7|HintPaper|![힌트_이미지](./img/PaperHint.png)|
 |8|Table|![책상_이미지](./img/Table_Obj.png)|
 |9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
 |10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
@@ -321,7 +321,7 @@
 |17|Compass|![나침반_이미지](./img/Compass_img.jpg)|
 |18|Sofa|![소파_이미지](./img/Sofa_Obj.png)|
 |19|Newspaper|![신문_이미지](./img/NewsPaper.png)|
-|20|QuestionPaper|![문제_이미지 1](./img/PaperQuiz.png)![문제_이미지 2](./img/PaperQuiz2.png)|
+|20|QuestionPaper|![문제_이미지 1](./img/PaperQuiz.png)![문제_이미지 2](./img/PaperQuiz02.png)|
 |21|DeadBodyCloth|![시체 이미지](./img/DeadBody_img.png)|
 |22|Vase|![검은 화병 이미지](./img/Vase1_img.png)![흰 화병 이미지](./img/Vase2_img.png)|
 |24|Flower|![빨간꽃 이미지](./img/빨간장미.png)![노란 꽃 이미지](./img/노란장미.png)![파란 꽃 이미지](./img/파란장미.png)![하얀 꽃 이미지](./img/하얀장미.png)|
