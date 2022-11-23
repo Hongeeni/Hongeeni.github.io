@@ -323,8 +323,7 @@
 |19|Newspaper|![신문_이미지](./img/NewsPaper.png)|
 |20|QuestionPaper|![문제_이미지](./img/PaperQuiz.png)|
 |21|DeadBodyCloth|![시체 이미지](./img/DeadBody_img.png)|
-|22|BlackVase|![검은 화병 이미지](./img/Vase1_img.png)|
-|23|DeadBodyCloth|![흰 화병 이미지](./img/Vase2_img.png)|
+|22|Vase|![검은 화병 이미지](./img/Vase1_img.png)![흰 화병 이미지](./img/Vase2_img.png)|
 |24|Flower|![빨간꽃 이미지](./img/빨간장미.png)![노란 꽃 이미지](./img/노란장미.png)![파란 꽃 이미지](./img/파란장미.png)![하얀 꽃 이미지](./img/하얀장미.png)|
 
 <br>
