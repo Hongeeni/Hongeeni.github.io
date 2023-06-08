@@ -342,7 +342,7 @@
 |9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
 |10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
 |11|LittleBox|![작은상자_이미지](./img/LittleBox_Obj.png)|
-|12|Diary_1, Diary_2, Diary_3, Diary_4|![일기장1_이미지](./img/Diary_1.png)![일기장2_이미지](./img/Diary_2.png)![일기장3_이미지](./img/Diary_3.png)![일기장4_이미지](./img/Diary_4.png)|
+|12|Diary_1, Diary_2, Diary_3, Diary_4, Diary_5, Diary_6|![일기장1_이미지](./img/Diary_1.png)![일기장2_이미지](./img/Diary_2.png)![일기장3_이미지](./img/Diary_3.png)![일기장4_이미지](./img/Diary_4.png)![일기장5_이미지](./img/Diary_5.png)![일기장6_이미지](./img/Diary_6.png)|
 |13|AlbumOfGraduation|![졸업앨범_이미지](./img/Album_Obj.png)|
 |14|Frame|![액자_이미지](./img/Frame_img.png)|
 |15|KeyOfDrawer_1, KeyOfDrawer_2, RoomKey|![열쇠_이미지](./img/Key_img.png)|
