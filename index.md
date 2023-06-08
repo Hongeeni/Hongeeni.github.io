@@ -760,16 +760,6 @@
 
 <br><br>
 
-## [스토리 보드]<a name='8'></a>
-
-![스토리보드 이미지1](./img/StoryBoard_01.png)
-![스토리보드_이미지2](./img/StoryBoard_02.png)
-![스토리보드_이미지3](./img/StoryBoard_03.png)
-![스토리보드_이미지4](./img/StoryBoard_04.png)
-![스토리보드_이미지5](./img/StoryBoard_05.png)
-
-<br><br>
-
 ## [프로토타입 개발 요구사항 현황]<a name='9'></a>
 
 ### 1주차
