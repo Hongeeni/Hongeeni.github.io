@@ -156,10 +156,13 @@
 
 |번호|오브젝트 이름(영문이름)|
 |:---:|:---:|
-|1|주인공(PlayerCharacter)|
-|2|NPC(NPC)|
-|3|마물(Monster)|
-|4|연금술사(Alchemist)|
+|1|주인공 (PlayerCharacter)|
+|2|NPC (NPC)|
+|3|마물 (Monster)|
+|4|연금술사 (Alchemist)|
+|5|마법 (Magic)|
+|6|물약 (Potion)|
+|7|마법 지팡이 (Wand)|
 
 <br>
 
