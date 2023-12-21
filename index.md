@@ -156,16 +156,9 @@
 
 |번호|오브젝트 이름(영문이름)|
 |:---:|:---:|
-|1|PlayerCharacter|
-|2|QuestNPC|
-|3|DealerNPC|
-|4|MagicMirror|
-|5|Drawer_1, Drawer_2|
-|6|PictureOfPiano|
-|7|HintPaper|
-|8|Table|
-|9|Safe_1, Safe_2|
-|10|BookShelf_1, BookShelf_2|
+|1|주인공(PlayerCharacter)|
+|2|NPC(NPC)|
+|3|마물(Monster)|
 
 <br>
 
