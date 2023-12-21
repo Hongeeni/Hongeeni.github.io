@@ -411,4 +411,4 @@
 
 ## [프로토타입 개발작업 일정]<a name='9'></a>
 
-![프로토타입_작업일정_이미지](./img/ProtoPlan_img.PNG)
+![프로토타입_작업일정_이미지](./img/ProtoPlanImage.png)
