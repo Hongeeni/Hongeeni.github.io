@@ -159,6 +159,7 @@
 |1|주인공(PlayerCharacter)|
 |2|NPC(NPC)|
 |3|마물(Monster)|
+|4|연금술사(Alchemist)|
 
 <br>
 
