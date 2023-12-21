@@ -126,32 +126,27 @@
 
 [디자인]
 
-플레이어 캐릭터 : 작은 마을에서 사람들을 도와주는 젊은 마법사 컨셉.
+- 플레이어 캐릭터 : 작은 마을에서 사람들을 도와주는 젊은 마법사 컨셉.
 
-논 플레이어 캐릭터 : 중세 판타지 세계관의 마을 및 스테이지 분위기에 맞는 의상을 입고 있는 평범한 인간 컨셉.
+- 논 플레이어 캐릭터 : 중세 판타지 세계관의 마을 및 스테이지 분위기에 맞는 의상을 입고 있는 평범한 인간 컨셉.
 
-몬스터 : 액체 괴물, 돌로된 골램, 불을 뿜는 늑대 등 비현실적인 생물 컨셉.
+- 몬스터 : 액체 괴물, 돌로된 골램, 불을 뿜는 늑대 등 비현실적인 생물 컨셉.
 
-오브젝트 : 중세의 목조 및 석재 건물과 포션, 마법과 같은 판타지 분위기 컨셉.
+- 오브젝트 : 중세의 목조 및 석재 건물과 포션, 마법과 같은 판타지 분위기 컨셉.
 
 [컬러]
 
-캐릭터 : 20대 남성의 마법사에 적절한 구리빛 피부와 탁한 갈색 톤의 의상.
+- 캐릭터 : 20대 남성의 마법사에 적절한 구리빛 피부와 탁한 갈색 톤의 의상.
 
-오브젝트 및 주변환경 : 마을의 오브젝트 대부분이 목조 건물 오브젝트와 마차 등에 어울리는 갈색 톤의 색상.
+- 오브젝트 및 주변환경 : 마을의 오브젝트 대부분이 목조 건물 오브젝트와 마차 등에 어울리는 갈색 톤의 색상.
 
 [음향]  
 
-캐릭터 : 스킬을 사용할 경우, 가볍고 빠른 것이 날아가는 듯한 소리나 짚신을 신고 낙엽을 밟는 걷는 소리.
+- 캐릭터 : 스킬을 사용할 경우, 가볍고 빠른 것이 날아가는 듯한 소리.
+플레이어 캐릭터가 움직일 경우, 짚신을 신고 낙엽을 밟는 걷는 소리.
 
-오브젝트 및 주변환경 : 바람이 새는 소리와 물건이 떨어지는 소리, 문이 천천히 열리는 소리 등 으스스한 분위기를 조성할 수 있는 음향을 활용.
-
-<br>
-
-### 4. 기술
-
-1. 물체의 상호작용에 물리엔진을 적용하여 현실적인 물체의 움직임을 구현.
-2. 음향의 싱크를 맞춰 캐릭터와 물체의 움직임에 현실성을 더함.
+- 오브젝트 및 주변환경 : 마을 안의 경우, 사람들이 웅성거리는 소리.
+필드의 경우, 나무 사이로 바람이 지나는 소리나 나뭇잎이 흔들리는 소리, 새가 우는 소리.
 
 <br><br>
 
@@ -159,32 +154,18 @@
 
 ### 1. 게임 오브젝트 분해
 
-|번호|오브젝트 이름(영문이름)|이미지|
-|:---:|:---:|:---:|
-|1|AdmissionPhoto|![입학식_이미지](./img/AdmissionPhoto.jpg)|
-|2|GraduatePhoto|![졸업식_이미지](./img/GraduatePhoto.jpg)|
-|3|Bed|![침대_이미지](./img/Bed_Obj.png)|
-|4|MagicMirror|![매직미러_이미지](./img/MagicMirror_Obj.png)|
-|5|Drawer_1, Drawer_2|![서랍_이미지](./img/Drawer_Obj.png)|
-|6|PictureOfPiano|![더러운피아노건반_이미지](./img/piano_blood.png)![깨끗한피아노건반_이미지](./img/piano_number.png)|
-|7|HintPaper|![힌트_이미지](./img/PaperHint.PNG)|
-|8|Table|![책상_이미지](./img/Table_Obj.png)|
-|9|Safe_1, Safe_2|![금고_이미지](./img/Safe_Obj.png)|
-|10|BookShelf_1, BookShelf_2|![책장_이미지](./img/BookShelf_Obj.png)|
-|11|LittleBox|![작은상자_이미지](./img/LittleBox_Obj.png)|
-|12|Diary_1, Diary_2, Diary_3, Diary_4, Diary_5, Diary_6|![일기장1_이미지](./img/Diary_1.png)![일기장2_이미지](./img/Diary_2.png)![일기장3_이미지](./img/Diary_3.png)![일기장4_이미지](./img/Diary_4.png)![일기장5_이미지](./img/Diary_5.png)![일기장6_이미지](./img/Diary_6.png)|
-|13|AlbumOfGraduation|![졸업앨범_이미지](./img/Album_Obj.png)|
-|14|Frame|![액자_이미지](./img/Frame_img.png)|
-|15|KeyOfDrawer_1, KeyOfDrawer_2, RoomKey|![열쇠_이미지](./img/Key_img.png)|
-|16|Door, IronDoor|![첫번째방_문](./img/Door_Obj.png)![두번째방_문](./img/IronDoor_Obj.png)|
-|17|Compass|![나침반_이미지](./img/Compass_img.jpg)|
-|18|Sofa|![소파_이미지](./img/Sofa_Obj.png)|
-|19|Newspaper|![신문_이미지](./img/NewsPaper.png)|
-|20|QuestionPaper|![문제_이미지 1](./img/PaperQuiz.png)![문제_이미지 2](./img/PaperQuiz02.png)|
-|21|DeadBodyCloth|![시체 이미지](./img/DeadBody_img.png)|
-|22|Vase|![검은 화병 이미지](./img/Vase1_img.png)![흰 화병 이미지](./img/Vase2_img.png)|
-|24|Flower|![빨간꽃 이미지](./img/빨간장미.png)![노란 꽃 이미지](./img/노란장미.png)![파란 꽃 이미지](./img/파란장미.png)![하얀 꽃 이미지](./img/하얀장미.png)|
-|25|NPC|![NPC_이미지](./img/NPC.png)|
+|번호|오브젝트 이름(영문이름)|
+|:---:|:---:|
+|1|PlayerCharacter|
+|2|QuestNPC|
+|3|DealerNPC|
+|4|MagicMirror|
+|5|Drawer_1, Drawer_2|
+|6|PictureOfPiano|
+|7|HintPaper|
+|8|Table|
+|9|Safe_1, Safe_2|
+|10|BookShelf_1, BookShelf_2|
 
 <br>
 
