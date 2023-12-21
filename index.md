@@ -36,8 +36,7 @@
 
 ## [관련 컨셉 이미지]<a name='2'></a>
 
-- 이미지  
-  ![게임 컨셉 이미지](./img/MainConceptImage.jpg)
+![게임 컨셉 이미지](./img/MainConceptImage.jpg)
 
 <br><br>
 
